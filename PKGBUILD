@@ -2,7 +2,7 @@
 
 pkgname=shellyctl
 pkgver=0.4.0 # renovate: datasource=github-releases depName=jcodybaker/shellyctl
-pkgrel=1
+pkgrel=2
 pkgdesc="shellyctl is an unofficial command line client for the Shelly Gen2/3 API. "
 arch=('armv7h' 'aarch64' 'x86_64')
 url="https://github.com/jcodybaker/$pkgname"
