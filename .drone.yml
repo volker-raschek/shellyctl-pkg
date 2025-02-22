@@ -62,7 +62,7 @@ steps:
   image: docker.io/appleboy/drone-git-push:1.1.1
   settings:
     branch: master
-    remote: ssh://aur@aur.archlinux.org/prometheus-x509-certificate-exporter.git
+    remote: ssh://aur@aur.archlinux.org/shellyctl.git
     force: false
     commit: false
     ssh_key:
@@ -94,4 +94,4 @@ trigger:
   event:
   - tag
   repo:
-  - volker.raschek/prometheus-x509-certificate-exporter-pkg
+  - volker.raschek/shellyctl-pkg
