@@ -1,7 +1,6 @@
 # shellyctl
 
 ![AUR version](https://img.shields.io/aur/version/shellyctl?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/shellyctl-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/shellyctl-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/shellyctl)
 
 This repository contains build files to build the Arch Linux package `shellyctl`. Instead of
